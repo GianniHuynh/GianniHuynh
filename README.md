@@ -5,7 +5,7 @@
 - 🐤 Twitter : @GianniHynh
 - 📧 Mail : gianni.huynh@protonmail.com
 - 🔵 Linkedin : https://www.linkedin.com/in/gianni-huynh-1b9aa41b9
-- 🌍 Portfolio : https://giannihuynh.notion.site/Portfolio-789c84059eae4eaea503ac920bbadcd1
+- 🌍 Portfolio : https://www.gianni-huynh.dev
 
 <!---
 GianniHuynh/GianniHuynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
