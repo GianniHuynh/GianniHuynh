@@ -2,9 +2,8 @@
 - 📚 French Student in computer sciences 
 - ❤️ In love with Web Dev & Cybersecurity
 - ⭐ Making some project for the fun or just for training my skills
-- 🐤 Twitter : @GianniHynh
-- 📧 Mail : gianni.huynh@protonmail.com
-- 🔵 Linkedin : https://www.linkedin.com/in/gianni-huynh-1b9aa41b9
+- 📧 Mail : gianni.huynh@icloud.com
+- 🔵 Linkedin : https://www.linkedin.com/in/gianni-huynh/
 - 🌍 Portfolio : https://www.gianni-huynh.dev
 
 <!---
